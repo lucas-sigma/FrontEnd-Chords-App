@@ -1,0 +1,54 @@
+pre {
+    background-color: white;
+    font-size: 1.2em;
+    border: none;
+    display: inline;
+    color: orange;
+}
+
+footer {
+    background-color: #cecece;
+    color: black;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.panel-heading {
+    border-top: 1px solid;
+}
+
+@media screen and (max-device-width: 768px) {
+    .well h4 {
+        text-align: center;
+    }
+}
+
+#navbarTitle {
+    color: rgb(255, 153, 0);
+}
+
+/* Vitrina */
+#semanaCifras {
+    color: white;
+    background-color: rgb(106, 106, 255);
+    font-weight: bold;
+}
+
+#semanaTeoria {
+    color: white;
+    background-color: rgb(255, 55, 55);
+    font-weight: bold;
+}
+
+#wellVitrina {
+    background-color: white;
+    padding-bottom: .1em;
+}
+
+#vitrina {
+    background-color: white;
+}
+/* End Vitrina */

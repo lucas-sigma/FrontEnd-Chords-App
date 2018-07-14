@@ -1,0 +1,14 @@
+﻿<pre>   <bkd>C</bkd>        <bkd>F#</bkd>          <bkd>Cm</bkd>              <bkd>C</bkd></pre>
+ <p>Mussum Ipsum, cacilds vidis litro abertis.</p>
+
+ <pre> <bkd>F</bkd>           <bkd>C</bkd>          <bkd>Cm</bkd>           <bkd>F#</bkd>          <bkd>C</bkd></pre>
+ <p>Praesent malesuada urna nisi, quis volutpat erat hendrerit non.</p>
+
+     E                  D               C            Cm        C
+ <p>Nam vulputate dapibus. Detraxit consequat et quo num tendi nada.</p>
+
+  F                Dm             Em            C
+ <p>Si num tem leite então bota uma pinga aí cumpadi!</p>
+
+ Cm             D                 F          Cm             C
+ <p>Mais vale um bebadis conhecidiss, que um alcoolatra anonimis.</p>
