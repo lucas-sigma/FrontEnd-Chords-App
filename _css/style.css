@@ -6,6 +6,11 @@ pre {
     color: orange;
 }
 
+kbd {
+    color: royalblue;
+    font-family: arial, sans-serif;
+}
+
 footer {
     background-color: #cecece;
     color: black;
