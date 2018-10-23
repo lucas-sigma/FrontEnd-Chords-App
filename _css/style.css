@@ -35,6 +35,14 @@ footer {
     }
 }
 
+@media screen and (min-device-width: 1300px) {
+    .panel-body {
+        box-shadow: .5px 8px 8px 1px #292929;
+        width: 50%;
+        margin: 15px auto 15px 25%;
+    }
+}
+
 #navbarTitle {
     color: rgb(255, 153, 0);
 }
