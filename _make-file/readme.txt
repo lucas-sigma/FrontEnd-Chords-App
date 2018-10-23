@@ -14,7 +14,7 @@ Exemplo:
 
 
  - Texto:
-    -Cristo já nos preparou, um manjar que nos comprou+
+    -Lorem ipsum...........+
 
 
 Observação: As quebras de linha são importantes, ou seja, após as cifras, deverá haver um 'enter' para iniciar o texto.
